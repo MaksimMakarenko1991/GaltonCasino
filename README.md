@@ -1,1 +1,2 @@
 # Galton Roulette
+Galton roulette is a triangular pyramid with cells. Each cell has a number written on it - the cost of this cell. From above, a ball is thrown into the very first cell. The ball from the current cell can equally likely roll into one of the two neighboring cells on the level below. When the ball rolls to the lowest level, the sum of the values of all the cells visited by the ball is calculated.
